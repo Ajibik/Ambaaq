@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\Number2.exe
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\Number2.deps.json
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\Number2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\Number2.dll
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\ref\Number2.dll
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\bin\Debug\net6.0\Number2.pdb
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.dll
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\ref\Number2.dll
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.pdb
+C:\Users\ADMIN\Desktop\AjibikeAbdulqayyum(CodeChallenge)\Number2\obj\Debug\net6.0\Number2.genruntimeconfig.cache
